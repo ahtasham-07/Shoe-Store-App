@@ -1,0 +1,74 @@
+{
+    "item_1" : {
+        "name":"Josmo 8190 Plain Infant Walking Shoes",
+        "brand":"Josmo",
+        "price": "699",
+        "shipping": "Rs. 150",
+        "imgurl":"https://i5.walmartimages.com/asr/13ac3d61-003c-4a30-94db-7d4e7e94fd3b_1.157f2cdc2551cda33f1191df19dd94ff.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" 
+
+    },
+    "item_2" : {
+        "name":"Servus By Honeywell Shoe",
+        "brand":"SERVUS BY HONEYWELL",
+        "price": "999",
+        "shipping": "Free",
+        "imgurl":"https://i5.walmartimages.com/asr/0ca84b98-3c3b-4dcd-a34e-80f8092cab05_1.d2ec9505fa96754a621e7dc8702390ce.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+
+    },
+    "item_3":{
+        "name":"Native Miller Men Us 10 Gray Loafer",
+        "brand":"NATIVE",
+        "price": "1399",
+        "shipping": "Rs. 150",
+        "imgurl":"https://i5.walmartimages.com/asr/4e7f761d-0537-4904-8aef-0ff1475be423_1.ace3569a3a35ed3bcb12503b6f81136c.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+
+    },
+    "item_4":{
+        "name":"Maui and Sons David Men  Open Toe Synthetic  Flip Flop Sandal",
+        "brand":"MAUI AND SONS",
+        "price": "1499",
+        "shipping": "Rs. 0",
+        "imgurl":"https://i5.walmartimages.com/asr/0fea5326-4960-43b4-bb2b-9e82e968ea73_1.2919e8dbb27c78911963b5aba21bd37d.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+
+    },
+    "item_5":{
+        "name":"Lacoste Mens Mokara 416 Sneakers In Dark Grey",
+        "brand":"Hao-bo",
+        "price": "500",
+        "shipping": "Free",
+        "imgurl":"https://i5.walmartimages.com/asr/1be177f9-e6ce-48c0-b16f-6def283aedb9_1.32d3d77d65ccc3179dea8de024d880f6.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+        
+    },
+    "item_6":{
+        "name":"Twisted X Western Boots Mens Buckaroo Spur Ridge Crazy Horse Mbkl012",
+        "brand":"Twisted X",
+        "price": "1750",
+        "shipping": "Free",
+        "imgurl":"https://i5.walmartimages.com/asr/8ddf4705-bcc2-4fd0-a56d-e3691cb00bb3_1.1e168531cbdd1c085d903cd4f3acf005.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+        
+    },
+    "item_7":{
+        "name":"Rubies Costume Adult Mens Regency Plush Santa Claus Christmas Shoe",
+        "brand":"Lacoste",
+        "price": "2999",
+        "shipping": "Rs. 199",
+        "imgurl":"https://i5.walmartimages.com/asr/fa9a77ab-bbae-4942-924e-63f3748dabf0_1.609f026020c0dd6c1dcb383e4622411e.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+        
+    },
+    "item_8":{
+        "name":"Lacoste Mens Mokara 416 Sneakers In Dark Blue",
+        "brand":"Rubies",
+        "price": "1299",
+        "shipping": "Free",
+        "imgurl":"https://i5.walmartimages.com/asr/6c1fa8f6-5389-43f3-bd3a-f6f9ef3fc09c_1.3dd917885eb4712280a7633bdad796a1.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+        
+    },
+    "item_9":{
+        "name":"Twisted X Western Boots Mens Buckaroo Spur Ridge Crazy Horse",
+        "brand":"Twisted X",
+        "price": "1750",
+        "shipping": "Rs. 99",
+        "imgurl":"https://i5.walmartimages.com/asr/8ddf4705-bcc2-4fd0-a56d-e3691cb00bb3_1.1e168531cbdd1c085d903cd4f3acf005.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+        
+    }
+}
